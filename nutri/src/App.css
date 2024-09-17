@@ -1,28 +1,36 @@
 
 .header {
   font-family: 'league spartan';
+  color: #858423;
   display: flex;
   justify-content: center;
-  border: 1px solid white;
+  border: 1px solid #9bc48f;
 }
 .nav {
   font-family: 'league spartan';
+  color: #517b50;
   display: flex;
   justify-content: center;
-  border: 1px solid white;
+  border: 1px solid #9bc48f;
 }
 .about {
   display: flex;
   justify-content: center;
-  border: 1px solid white;
+  border: 1px solid #9bc48f;
   width: 100%;
 }
 
+.portrait{
+  width: 400px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
 .footer{
   font-family: 'league spartan';
+  color: #858423;
   display: flex;
   justify-content: center;
-  border: 1px solid white;
+  border: 1px solid #9bc48f;
 }
 
 
