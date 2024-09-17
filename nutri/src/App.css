@@ -1,0 +1,29 @@
+
+.header {
+  font-family: 'league spartan';
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+}
+.nav {
+  font-family: 'league spartan';
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  width: 100%;
+}
+
+.footer{
+  font-family: 'league spartan';
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+}
+
+
+
