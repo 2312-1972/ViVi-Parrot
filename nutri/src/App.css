@@ -4,7 +4,7 @@
   color: #858423;
   display: flex;
   justify-content: center;
-  border: 1px solid #9bc48f;
+  border: 1px solid WHite;
 }
 .nav {
   font-family: 'league spartan';
@@ -17,11 +17,11 @@
   display: flex;
   justify-content: center;
   border: 1px solid #9bc48f;
-  width: 100%;
+  width: 200px;
 }
 
 .portrait{
-  width: 400px;
+  width: 200px;
   border: 1px solid white;
   border-radius: 50%;
 }
