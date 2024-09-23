@@ -1,9 +1,10 @@
 import React from 'react';
 
+
 const Header = () => {
     return (
         <header className='header'>
-            <h1>Votre Nutritionniste</h1>
+            <h1>Nutri-Vi</h1>
         </header>
     );
 }
